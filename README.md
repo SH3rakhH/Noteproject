@@ -64,7 +64,7 @@ Noteproject is a beginner's project, and it's his first unfinished work.
 
 3. Убедитесь, что в папке есть файл приложения, например:
 
-   - `notes_app.py` (основной скрипт).
+   - `note_app.py` (основной скрипт).
 
 4. Дополнительно (по желанию) положите рядом с `.py` файлом иконку:
 
