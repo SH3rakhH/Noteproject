@@ -136,15 +136,3 @@ pyinstaller --noconsole --onefile \
 ---
 
 Если ты хочешь, можно добавить в README скриншоты интерфейса, схемы БД или примеры команд для авто‑сборки exe и инсталлятора (например, `.bat` или GitHub Actions).
-
-
-## 👤 Автор
-
-- Имя / ник: **\<SherakHh\>**  
-
-  
----
-
-> Библиотека ttkbootstrap:  
-> https://github.com/israel-dryer/ttkbootstrap [web:139][web:143]
-
